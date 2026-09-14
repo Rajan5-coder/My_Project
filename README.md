@@ -12,25 +12,17 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
+- 🎴 **Cards Hover** - HTML & CSS
 - 🌡️ **Temperature Converter** – HTML, CSS & JavaScript
 - 🔌 **Logic Gate Simulator** – HTML, CSS & JavaScript
-- 📚 **Smart Library Recommendation System** – Mini Project
 - 💻 More projects coming soon...
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p>
 
 ---
 
@@ -40,7 +32,7 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://in.linkedin.com/in/rajan-chaurasiya-0820873aa)">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
