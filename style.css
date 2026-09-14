@@ -1,0 +1,63 @@
+*{
+  margin-right: 0%;
+  padding: 0%; 
+   box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.box{
+    width: 200px;
+    height: 280px;
+    position: absolute;  /* ek ke peeche dusra box karta hai */
+    top: 50%;            /* box ko vertically center me karega */
+    left: 50%;            /* box ko horizontgally center me karega */
+    transform: translate(-50%,-50%);       
+    border: 1px solid black;     /* border colour */
+    border-radius: 20px;          /*  box ka corner curve me changed karna */
+    overflow: hidden;        /* image ke overflow ko hidden karta hai */
+}
+
+#box1{
+    z-index: 4;           /* z-index matlab z axis me index ki value jitna jyada hogi wo boxnsabse uper dikhai dega */
+    transform: translate(-50%,-50%) rotate(0deg);         
+}
+
+#box2{
+    z-index: 3;
+    transform: translate(-50%,-50%) rotate(-8deg);    /*  box ko center ke about rotate karta hai */
+} 
+
+#box3{
+    z-index: 2;
+    transform: translate(-50%,-50%) rotate(-16deg);
+} 
+
+#box4{
+    z-index: 1;
+    transform: translate(-50%,-50%) rotate(-24deg);
+} 
+
+img{
+
+    /* image ko bax ke ander fix karta hai */
+    height: 100%;     
+    width: 100%;
+    object-fit: cover;
+}
+
+#box1:hover{
+    z-index: 10;
+}
+#box2:hover{
+    z-index: 10;
+}
+#box3:hover{
+    z-index: 10;
+}
+#box4:hover{
+    z-index: 10;
+}
