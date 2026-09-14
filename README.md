@@ -32,7 +32,7 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  <a href="https://in.linkedin.com/in/rajan-chaurasiya-0820873aa">
+  <a href="www.linkedin.com/in/rajan-chaurasiya-1952803ab">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
